@@ -1,3 +1,3 @@
 # Plants-Vs-Zombies
 
-Created by @github.com/ria18405
+Created by [Ria Gupta](github.com/ria18405) 
