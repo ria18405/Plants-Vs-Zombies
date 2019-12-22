@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.LevelController">
+   <children>
+      <ImageView fitHeight="406.0" fitWidth="600.0" layoutY="-3.0">
+         <image>
+            <Image url="@Pictures/Level-Selection-Course.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="184.0" layoutY="134.0" mnemonicParsing="false" opacity="0.0" prefHeight="54.0" prefWidth="56.0" text="Button" />
+      <Button layoutX="248.0" layoutY="134.0" mnemonicParsing="false" opacity="0.0" prefHeight="54.0" prefWidth="50.0" text="Button" />
+      <Button layoutX="311.0" layoutY="134.0" mnemonicParsing="false" onAction="#level_3" opacity="0.0" prefHeight="54.0" prefWidth="43.0" text="LEVEL3" />
+      <Text layoutX="48.0" layoutY="362.0" strokeType="OUTSIDE" strokeWidth="0.0" text="BACK GAME" />
+      <Button layoutX="29.0" layoutY="344.0" mnemonicParsing="false" onAction="#BackGame" opacity="0.0" prefHeight="26.0" prefWidth="115.0" text="BACK GAME" />
+      <Button layoutX="362.0" layoutY="134.0" mnemonicParsing="false" onAction="#level_4" opacity="0.0" prefHeight="54.0" prefWidth="52.0" text="Button" />
+      <Button layoutX="247.0" layoutY="134.0" mnemonicParsing="false" onAction="#level_2" opacity="0.04" prefHeight="54.0" prefWidth="52.0" text="Button" />
+      <Button layoutX="186.0" layoutY="134.0" mnemonicParsing="false" onAction="#level_1" opacity="0.0" prefHeight="54.0" prefWidth="52.0" text="Button" />
+   </children>
+</AnchorPane>
