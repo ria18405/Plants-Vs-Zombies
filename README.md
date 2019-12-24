@@ -4,6 +4,12 @@ CSE 201 : Final project of the course **Advanced Programming**
 
 **Created by [Ria Gupta](https://github.com/ria18405) and [Ruhma Mehek Khan](https://github.com/ruhmamehek)**
 
+
+This is a JavaFX application for the game - Plants vs Zombies. The objective of the game is to
+defend the house from zombies using various plants as defence arsenal through different levels.
+If the zombies are able to reach the house, you fail the level and have to play the level again.
+
+
 **RULES OF THE GAME**
 
 1) The game consists of different levels. In each level, there is a house with a lawn and
